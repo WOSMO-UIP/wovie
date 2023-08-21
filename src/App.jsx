@@ -45,3 +45,4 @@ function App() {
 export default App;
 
 //   {/* just for testing => <Header /> <Footer/> <Home/> <Details /> <SearchResult /> <Explore /> <PageNotFound /> */}
+// clonning successfull :)
