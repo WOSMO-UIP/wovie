@@ -47,3 +47,4 @@ export default App;
 //   {/* just for testing => <Header /> <Footer/> <Home/> <Details /> <SearchResult /> <Explore /> <PageNotFound /> */}
 // clonning successfull :)
 // testing successfull which means happy * 100
+// now im happy * 100000000
